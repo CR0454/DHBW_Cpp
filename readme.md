@@ -1,1 +1,1 @@
-Das ist das erste Repository dieses Accounts und beinhaltet hauptsächlich Tests.
+Dieses Repository beinhaltet die Aufgaben und andere Programme des C++ Kurses.
